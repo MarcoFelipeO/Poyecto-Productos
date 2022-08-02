@@ -1,0 +1,9 @@
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\obj\Debug\C3LNegG4DWOrellanaArriagada.csproj.AssemblyReference.cache
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\obj\Debug\C3LNegG4DWOrellanaArriagada.csproj.CoreCompileInputs.cache
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\bin\Debug\C3LNegG4DWOrellanaArriagada.dll
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\bin\Debug\C3LNegG4DWOrellanaArriagada.pdb
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\obj\Debug\C3LNegG4DWOrellanaArriagada.dll
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\obj\Debug\C3LNegG4DWOrellanaArriagada.pdb
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\bin\Debug\C3LDataG4DOrellanaArriagada.dll
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\bin\Debug\C3LDataG4DOrellanaArriagada.pdb
+C:\C3PAAD_PA\C3LNegG4DWOrellanaArriagada\obj\Debug\C3LNegG4DWOrellanaArriagada.csproj.CopyComplete
